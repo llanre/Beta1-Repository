@@ -131,7 +131,7 @@ p {
 }
 
 .whatsapp{
-height:34px
+height:
 }
 
 #press {
@@ -197,8 +197,16 @@ height:34px
   .download-button{
   font-size:1.8rem;
   }
+  
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 3rem;
+  font-weight: bold;
+}  
+  
+  
   nav-link {
-    font-size:2.rem;
+    font-size:2.5rem;
 /*     font-weight:normal; */
   }
    
@@ -206,8 +214,8 @@ height:34px
      font-size:2.7rem; 
   }
  
-  #feature p{
-  font-size:2rem;
+  #feature, p{
+  font-size:2.5rem;
 /*     font weight:normal; */
   }
   
@@ -222,11 +230,11 @@ height:34px
 
  .card-header 2.4rem
   
-  #pricing p{
+  #pricing, p{
   font-size: 2.3rem;
   }
   
-  #footer p{
+  #footer, p{
    font-size:1.6rem;
   }
   
